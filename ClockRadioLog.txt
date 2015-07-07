@@ -1,0 +1,253 @@
+
+ID Code:1234(3/5/2015 0:13): Alarm Time:15:55 Alarm Days:W F Sun Alarm Sound:buzzer Alarm Snooze:8.
+
+ID Code:1234(3/5/2015 0:14): Alarm Time:4:45 Alarm Days:M W Sun Alarm Sound:buzzer Alarm Snooze:8.
+
+ID Code:1234(3/5/2015 0:15): Alarm Time:4:37 Alarm Days:M W F Sun Alarm Sound:Radio Alarm Snooze:5.
+
+ID Code:1234(3/5/2015 0:18): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/5/2015 0:19): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/5/2015 0:22): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/5/2015 0:25): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/5/2015 0:28): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/5/2015 0:29): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/5/2015 0:32): Alarm Time:5:45 Alarm Days:T Sun Alarm Sound:Radio Alarm Snooze:8.
+
+ID Code:1234(3/5/2015 0:32): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/5/2015 0:32): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/5/2015 0:34): Alarm Time:0:35 Alarm Days:W  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/5/2015 0:35): Alarm Time:0:36 Alarm Days:W  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/5/2015 0:36): Alarm Time:0:37 Alarm Days:W  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/5/2015 17:24): Alarm Time:17:24 Alarm Days:T F  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/5/2015 17:24): Alarm Time:17:25 Alarm Days:T F  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 15:45): Alarm Time:15:46 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 15:51): Alarm Time:15:52 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:7): Alarm Time:16:8 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:8): Alarm Time:16:9 Alarm Days:M  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:12): Alarm Time:15:6 Alarm Days:W  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:24): Alarm Time:4:45 Alarm Days:W Thu  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:27): Alarm Time:4:4 Alarm Days:T F  Alarm Sound:Radio Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:29): Alarm Time:15:4 Alarm Days:Sun Alarm Sound:Radio Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:31): Alarm Time:12:4 Alarm Days:W F  Alarm Sound:Radio Alarm Snooze:6.
+
+ID Code:1234(3/6/2015 16:42): Alarm Time:16:43 Alarm Days:M  Alarm Sound:Radio Alarm Snooze:7.
+
+ID Code:1234(3/6/2015 16:43): Alarm Time:16:45 Alarm Days:M  Alarm Sound:Radio Alarm Snooze:7.
+
+ID Code:1234(3/6/2015 16:47): Alarm Time:16:48 Alarm Days:M  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:57): Alarm Time:12:15 Alarm Days:Thu F SatSun Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 16:58): Alarm Time:15:15 Alarm Days:Thu F Sun Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 17:1): Alarm Time:12:15 Alarm Days:F Sat Sun Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 17:1): Alarm Time:14:56 Alarm Days:M T W Thu F Sat Sun Alarm Sound:Radio Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 17:2): Alarm Time:0:0 Alarm Days:M T W Thu F Sat Sun Alarm Sound:Radio Alarm Snooze:5.
+
+ID Code:1234(3/6/2015 17:2): Alarm Time:0:0 Alarm Days:M T W Thu F Sat Sun Alarm Sound:Radio Alarm Snooze:0.
+
+ID Code:1234(3/6/2015 17:3): Alarm Time:0:0 Alarm Days:M T W Thu F Sat Sun Alarm Sound:Radio Alarm Snooze:8.
+
+ID Code:1234(3/6/2015 17:35): Alarm Time:15:45 Alarm Days:T F Sun Alarm Sound:Radio Alarm Snooze:6.
+
+ID Code:1234(3/7/2015 12:53): Alarm Time:12:54 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 12:57): Alarm Time:12:58 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 13:6): Alarm Time:13:7 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 13:9): Alarm Time:13:10 Alarm Days:T  Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 13:12): Alarm Time:13:13 Alarm Days:M  Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 13:18): Alarm Time:12:45 Alarm Days: Alarm Sound:Radio Alarm Snooze:0.
+
+ID Code:1234(3/7/2015 13:27): Alarm Time:12:45 Alarm Days:M  Alarm Sound:Radio Alarm Snooze:0.
+
+ID Code:1234(3/7/2015 13:28): Alarm Time:12:48 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/7/2015 13:28): Alarm Time:0:0 Alarm Days: Alarm Sound:buzzer Alarm Snooze:5.
+
+ID Code:1234(3/7/2015 13:30): Alarm Time:0:0 Alarm Days: Alarm Sound:buzzer Alarm Snooze:0.
+
+ID Code:1234(3/7/2015 13:30): Alarm Time:15:7 Alarm Days:W  Alarm Sound:Radio Alarm Snooze:4.
+
+ID Code:1234(3/7/2015 13:30): Alarm Time:-1:-1 Alarm Days:null Alarm Sound:null Alarm Snooze:-1.
+
+ID Code:1234(3/7/2015 13:31): Alarm Time:12:55 Alarm Days:W Sat  Alarm Sound:Radio Alarm Snooze:9.
+
+ID Code:1234(3/7/2015 13:31): Alarm Time:1:5 Alarm Days:W Sat  Alarm Sound:Radio Alarm Snooze:33.
+
+ID Code:1234(3/7/2015 13:49): Alarm Time:13:50 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 13:53): Alarm Time:13:54 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 13:55): Alarm Time:13:56 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 14:2): Alarm Time:14:3 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 14:5): Alarm Time:14:6 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 14:7): Alarm Time:14:9 Alarm Days:T W Thu  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 14:12): Alarm Time:14:13 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 14:15): Alarm Time:14:16 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 14:19): Alarm Time:14:21 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 14:28): Alarm Time:14:29 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:0): Alarm Time:15:1 Alarm Days:T  Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:4): Alarm Time:15:5 Alarm Days:T  Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:9): Alarm Time:15:10 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:14): Alarm Time:15:15 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:24): Alarm Time:15:25 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:27): Alarm Time:15:28 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:32): Alarm Time:15:33 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:55): Alarm Time:15:56 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 15:59): Alarm Time:16:0 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 16:12): Alarm Time:16:13 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 16:22): Alarm Time:16:23 Alarm Days:T  Alarm Sound:buzzer Alarm Snooze:1.
+
+ID Code:1234(3/7/2015 16:34): Alarm Time:16:35 Alarm Days:T  Alarm Sound:Buzzer Alarm Snooze:5.
+
+ID Code:1234(3/7/2015 17:1): Alarm Time:15:45 Alarm Days:T  Alarm Sound:Buzzer Alarm Snooze:5.
+
+ID Code:1234(3/9/2015 14:29): Alarm Time:14:30 Alarm Days:Thu  Alarm Sound:Buzzer Alarm Snooze:5.
+
+ID Code:1234(3/9/2015 17:53): Alarm Time:12:7 Alarm Days:T  Alarm Sound:Radio Alarm Snooze:8.
+
+ID Code:1234(3/9/2015 17:54): Alarm Time:12:45 Alarm Days:Thu  Alarm Sound:Buzzer Alarm Snooze:6.
+
+ID Code:1234(3/9/2015 18:4): Alarm Time:12:45 Alarm Days:T  Alarm Sound:Buzzer Alarm Snooze:5.
+
+ID Code:1234(3/9/2015 18:5): Alarm Time:12:34 Alarm Days:Thu  Alarm Sound:Buzzer Alarm Snooze:5.
+
+ID Code:1234(3/9/2015 18:5): Alarm Time:12:45 Alarm Days:Tue  Alarm Sound:Radio Alarm Snooze:8.
+
+ID Code:1234(3/9/2015 18:8): Alarm Time:12:45 Alarm Days:Thu  Alarm Sound:Buzzer Alarm Snooze:8.
+
+ID Code:1234(3/9/2015 19:1): Alarm Time:12:45 Alarm Days:Thu  Alarm Sound:Radio Alarm Snooze:8.
+
+ID Code:1234(3/9/2015 18:2): Alarm Time:12:45 Alarm Days:Thu  Alarm Sound:Buzzer Alarm Snooze:8.
+
+ID Code:1234(3/9/2015 12:45): Alarm Time:12:46 Alarm Days:Tue  Alarm Sound:Buzzer Alarm Snooze:5.
+
+ID Code:1234(3/9/2015 12:46): Alarm Time:12:47 Alarm Days:Tue Thu  Alarm Sound:Buzzer Alarm Snooze:1.
+
+ID Code:1234(3/11/2015 13:15): Alarm Time:12:42 Alarm Days:Tue  Alarm Sound:Radio Alarm Snooze:25.
+
+ID Code:1234(3/11/2015 15:14)Living Room: Alarm Time:12:45 Alarm Days:W  Alarm Sound:Radio Alarm Snooze:5.
+
+ID Code:1234(3/11/2015 15:31)Bedroom1: Alarm Time:8:45 Alarm Days:Tue  Alarm Sound:Radio Alarm Snooze:6.
+
+ID Code:1234(3/11/2015 15:38)Bedroom1: Alarm Time:12:55 Alarm Days:M  Alarm Sound:Buzzer Alarm Snooze:5.
+ID Code:1234(3/11/2015 15:38)Bedroom2: Alarm Time:12:35 Alarm Days:F  Alarm Sound:Buzzer Alarm Snooze:5.
+ID Code:1234(3/11/2015 16:8)Living Room: Alarm Time:4:45 Alarm Days:Tue F Sun Alarm Sound:Buzzer Alarm Snooze:6.
+
+ID Code:1234(3/11/2015 16:8)Bedroom1: Alarm Time:2:55 Alarm Days:Tue F Sun Alarm Sound:Radio Alarm Snooze:7.
+
+ID Code:1234(3/11/2015 16:9)Bedroom2: Alarm Time:6:35 Alarm Days:M Tue  Alarm Sound:Radio Alarm Snooze:4.
+
+ID Code:1234(3/11/2015 16:22)Living Room: Alarm Time:5:33 Alarm Days:W Sun Alarm Sound:Buzzer Alarm Snooze:10.
+
+ID Code:1234(3/11/2015 16:22)Bedroom1: Alarm Time:2:40 Alarm Days:M W Thu Sun Alarm Sound:Buzzer Alarm Snooze:6.
+
+ID Code:1234(3/11/2015 16:23)Bedroom2: Alarm Time:5:55 Alarm Days:W Thu F Sun Alarm Sound:Radio Alarm Snooze:3.
+
+ID Code:1234(3/11/2015 17:1)Living Room: Alarm Time:17:2 Alarm Days:Sat  Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:1234(3/11/2015 17:2)Living Room: Alarm Time:17:4 Alarm Days:Sat  Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:1234(3/11/2015 17:5)Living Room: Alarm Time:17:6 Alarm Days:Sat  Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:1234(3/11/2015 17:7)Living Room: Alarm Time:17:6 Alarm Days:Sat  Alarm Sound:Radio Alarm Snooze:2.
+
+ID Code:1234(3/11/2015 17:8)Living Room: Alarm Time:17:9 Alarm Days:Sat  Alarm Sound:Radio Alarm Snooze:2.
+
+ID Code:1234(3/11/2015 17:10)Living Room: Alarm Time:17:11 Alarm Days:Sat  Alarm Sound:Buzzer Alarm Snooze:2.
+
+ID Code:1234(3/11/2015 17:19)Living Room: Alarm Time:17:20 Alarm Days:Sat  Alarm Sound:Radio Alarm Snooze:2.
+
+ID Code:1234(3/11/2015 17:21)Living Room: Alarm Time:17:23 Alarm Days:Sat  Alarm Sound:Radio Alarm Snooze:2.
+
+ID Code:1234(3/11/2015 17:23)Living Room: Alarm Time:17:24 Alarm Days:Sat  Alarm Sound:Buzzer Alarm Snooze:2.
+
+ID Code:1234(3/11/2015 17:29)Living Room: Alarm Time:17:30 Alarm Days:Sat  Alarm Sound:Buzzer Alarm Snooze:1.
+
+ID Code:1234(3/11/2015 17:31)Living Room: Alarm Time:17:32 Alarm Days:Sat  Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:1234(3/11/2015 17:33)Bedroom1: Alarm Time:17:34 Alarm Days:Sat  Alarm Sound:Buzzer Alarm Snooze:5.
+
+ID Code:1234(3/11/2015 17:34)Bedroom1: Alarm Time:17:35 Alarm Days:Sat  Alarm Sound:Buzzer Alarm Snooze:51.
+
+ID Code:1234(3/11/2015 17:36)Living Room: Alarm Time:17:37 Alarm Days:M Tue W Thu F Sat Sun Alarm Sound:Radio Alarm Snooze:1.
+
+ID Code:4444(3/12/2015 17:2)Living Room: Alarm Time:1:1 Alarm Days:M  Alarm Sound:null Alarm Snooze:1.
+
+ID Code:4444(3/12/2015 17:4)Living Room: Alarm Time:1:1 Alarm Days:M  Alarm Sound:null Alarm Snooze:1.
+ID Code:0(3/12/2015 17:22)Living Room: Alarm Time:2:2 Alarm Days:M  Alarm Sound:Buzzer Alarm Snooze:2.
+
+ID Code:0(3/12/2015 17:23)Living Room: Alarm Time:5:6 Alarm Days:Tue W F  Alarm Sound:Radio Alarm Snooze:7.
+
+ID Code:0(3/12/2015 17:26)Living Room: Alarm Time:1:1 Alarm Days:M Tue W Thu F  Alarm Sound:Buzzer Alarm Snooze:1.
+
+ID Code:0(3/12/2015 17:27)Living Room: Alarm Time:3:3 Alarm Days:Sat Sun Alarm Sound:Radio Alarm Snooze:3.
+
+ID Code:0(3/12/2015 17:28)Living Room: Alarm Time:5:5 Alarm Days:Sat Sun Alarm Sound:Radio Alarm Snooze:5.
+
+ID Code:0(3/12/2015 17:34)Living Room: Alarm Time:1:1 Alarm Days:M F Sun Alarm Sound:Buzzer Alarm Snooze:1.
+
+ID Code:0(3/12/2015 17:38)Living Room: Alarm Time:3:3 Alarm Days:W  Alarm Sound:Radio Alarm Snooze:3.
+
+ID Code:0000(3/12/2015 17:41)Living Room: Alarm Time:5:5 Alarm Days:Tue  Alarm Sound:Buzzer Alarm Snooze:5.
+
+ID Code:0000(3/12/2015 17:46)Bedroom2: Alarm Time:4:4 Alarm Days:Tue  Alarm Sound:Buzzer Alarm Snooze:4.
+
+ID Code:0000(3/12/2015 17:47)Living Room: Alarm Time:4:4 Alarm Days:Tue  Alarm Sound:Radio Alarm Snooze:4.
+
+ID Code:0000(3/12/2015 17:47)Bedroom1: Alarm Time:4:4 Alarm Days:Tue  Alarm Sound:Radio Alarm Snooze:4.
+
+ID Code:0000(3/13/2015 20:37)Bedroom1: Alarm Time:6:30 Alarm Days:M Tue W Thu F  Alarm Sound:Buzzer Alarm Snooze:0.
+
+ID Code:0000(3/13/2015 20:37)Bedroom2: Alarm Time:6:30 Alarm Days:M Tue W Thu F  Alarm Sound:Buzzer Alarm Snooze:0.
+
+ID Code:0000(3/13/2015 21:25)Bedroom1: Alarm Time:6:30 Alarm Days:M Tue W Thu F  Alarm Sound:Buzzer Alarm Snooze:0.
+
+ID Code:0000(3/13/2015 21:26)Bedroom2: Alarm Time:6:30 Alarm Days:M Tue W Thu F  Alarm Sound:Buzzer Alarm Snooze:0.
+
+ID Code:null(3/13/2015 22:15)Bedroom1: Alarm Time:6:30 Alarm Days:M Tue W Thu F  Alarm Sound:Buzzer Alarm Snooze:5.

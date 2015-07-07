@@ -1,0 +1,135 @@
+ID Code:1234(4/20/2015 15:12): Current Temp:69 Max Temp:80 Min Temp:60 Lights:25 Fan:high
+
+ID Code:null(3/12/2015 13:59)Living Room: Current Temp:69 Max Temp:80 Min Temp:60 Lights:25 Fan:high.
+
+ID Code:null(3/12/2015 21:2)Living Room: Current Temp:69 Max Temp:80 Min Temp:60 Lights:25 Fan:high.
+
+ID Code:null(3/12/2015 21:3)BedRoom2: Current Temp:69 Max Temp:80 Min Temp:60 Lights:25 Fan:high.
+
+ID Code:null(3/12/2015 21:12)Living Room: Current Temp:69 Max Temp:80 Min Temp:60 Lights:25 Fan:high.
+
+ID Code:null(3/12/2015 21:13)Living Room: Current Temp:69 Max Temp:80 Min Temp:60 Lights:25 Fan:high.
+
+ID Code:null(3/12/2015 21:15)Living Room: Current Temp:69 Max Temp:80 Min Temp:60 Lights:25 Fan:high.
+
+ID Code:null(3/12/2015 21:17)Living Room: Current Temp:73 Max Temp:80 Min Temp:60 Lights:63 Fan:low.
+
+ID Code:null(3/12/2015 21:18)Living Room: Current Temp:66 Max Temp:80 Min Temp:60 Lights:0 Fan:off.
+
+ID Code:null(3/12/2015 21:19)Living Room: Current Temp:66 Max Temp:80 Min Temp:60 Lights:0 Fan:off.
+
+ID Code:null(3/12/2015 21:19)BedRoom1: Current Temp:75 Max Temp:80 Min Temp:60 Lights:71 Fan:low.
+
+ID Code:null(3/12/2015 21:20)BedRoom2: Current Temp:79 Max Temp:80 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:null(3/12/2015 21:22)BedRoom2: Current Temp:79 Max Temp:80 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:null(3/12/2015 21:22)BedRoom2: Current Temp:79 Max Temp:80 Min Temp:60 Lights:50 Fan:low.
+
+ID Code:null(3/13/2015 11:58)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:null(3/13/2015 11:59)BedRoom1: Current Temp:75 Max Temp:80 Min Temp:60 Lights:100 Fan:high.
+
+ID Code:null(3/13/2015 12:0)BedRoom2: Current Temp:65 Max Temp:80 Min Temp:60 Lights:0 Fan:low.
+
+ID Code:null(3/13/2015 12:2)BedRoom2: Current Temp:65 Max Temp:80 Min Temp:60 Lights:0 Fan:low.
+
+ID Code:null(3/13/2015 12:8)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:null(3/13/2015 12:10)BedRoom2: Current Temp:67 Max Temp:80 Min Temp:60 Lights:15 Fan:low.
+
+ID Code:null(3/13/2015 12:44)Living Room: Current Temp:79 Max Temp:80 Min Temp:60 Lights:65 Fan:off.
+
+ID Code:null(3/13/2015 12:53)Living Room: Current Temp:79 Max Temp:80 Min Temp:60 Lights:65 Fan:off.
+
+ID Code:null(3/13/2015 13:9)Living Room: Current Temp:75 Max Temp:80 Min Temp:60 Lights:0 Fan:off.
+
+ID Code:null(3/13/2015 13:10)BedRoom1: Current Temp:70 Max Temp:80 Min Temp:60 Lights:100 Fan:high.
+
+ID Code:null(3/13/2015 13:11)BedRoom2: Current Temp:67 Max Temp:80 Min Temp:60 Lights:15 Fan:low.
+
+ID Code:null(3/13/2015 13:12)LivingRoom: Current Temp:70 Max Temp:80 Min Temp:60 Lights:100 Fan:high.
+
+ID Code:null(3/13/2015 13:23)Living Room: Current Temp:79 Max Temp:80 Min Temp:60 Lights:49 Fan:off.
+
+ID Code:null(3/13/2015 13:24)BedRoom1: Current Temp:75 Max Temp:80 Min Temp:60 Lights:100 Fan:high.
+
+ID Code:null(3/13/2015 13:25)BedRoom2: Current Temp:67 Max Temp:80 Min Temp:60 Lights:0 Fan:low.
+
+ID Code:null(3/13/2015 13:43)Living Room: Current Temp:79 Max Temp:80 Min Temp:60 Lights:49 Fan:off.
+
+ID Code:null(3/13/2015 13:43)Living Room: Current Temp:80 Max Temp:80 Min Temp:60 Lights:100 Fan:off.
+
+ID Code:null(3/13/2015 13:45)BedRoom1: Current Temp:70 Max Temp:80 Min Temp:60 Lights:0 Fan:low.
+
+ID Code:null(3/13/2015 13:47)BedRoom2: Current Temp:60 Max Temp:80 Min Temp:60 Lights:51 Fan:high.
+
+ID Code:null(3/13/2015 13:47)Living Room: Current Temp:80 Max Temp:80 Min Temp:60 Lights:100 Fan:off.
+
+ID Code:null(3/13/2015 13:47)BedRoom1: Current Temp:70 Max Temp:80 Min Temp:60 Lights:0 Fan:low.
+
+ID Code:null(3/13/2015 13:48)BedRoom2: Current Temp:60 Max Temp:80 Min Temp:60 Lights:51 Fan:high.
+
+ID Code:null(3/13/2015 14:33)Living Room: Current Temp:80 Max Temp:80 Min Temp:60 Lights:100 Fan:off.
+
+ID Code:null(3/13/2015 14:33)Living Room: Current Temp:80 Max Temp:80 Min Temp:60 Lights:100 Fan:off.
+
+ID Code:null(3/13/2015 14:34)Living Room: Current Temp:80 Max Temp:80 Min Temp:60 Lights:100 Fan:off.
+
+ID Code:null(3/13/2015 14:36)Living Room: Current Temp:80 Max Temp:80 Min Temp:60 Lights:100 Fan:off.
+
+ID Code:null(3/13/2015 14:37)Living Room: Current Temp:80 Max Temp:80 Min Temp:60 Lights:100 Fan:off.
+
+ID Code:null(3/13/2015 21:57)Living Room: Current Temp:65 Max Temp:70 Min Temp:60 Lights:51 Fan:off.
+
+ID Code:null(3/13/2015 21:57)Living Room: Current Temp:65 Max Temp:70 Min Temp:60 Lights:51 Fan:off.
+
+ID Code:null(3/13/2015 22:0)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:null(3/13/2015 22:0)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:high.
+
+ID Code:null(3/13/2015 22:0)Bedroom1: Current Temp:50 Max Temp:80 Min Temp:60 Lights:0 Fan:high.
+
+ID Code:null(3/13/2015 22:0)Bedroom1: Current Temp:50 Max Temp:80 Min Temp:60 Lights:0 Fan:off.
+
+ID Code:null(3/13/2015 22:0)Living Room: Current Temp:65 Max Temp:70 Min Temp:60 Lights:51 Fan:off.
+
+ID Code:null(3/13/2015 22:1)Living Room: Current Temp:65 Max Temp:70 Min Temp:60 Lights:51 Fan:high.
+
+ID Code:null(3/13/2015 22:1)Living Room: Current Temp:65 Max Temp:70 Min Temp:60 Lights:51 Fan:high.
+
+ID Code:null(3/13/2015 22:1)Living Room: Current Temp:65 Max Temp:70 Min Temp:60 Lights:51 Fan:high.
+
+ID Code:null(3/13/2015 22:1)Bedroom1: Current Temp:65 Max Temp:70 Min Temp:60 Lights:51 Fan:high.
+
+ID Code:null(3/13/2015 22:2)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:null(3/13/2015 22:2)Living Room: Current Temp:65 Max Temp:70 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:null(3/13/2015 22:6)Living Room: Current Temp:68 Max Temp:70 Min Temp:60 Lights:0 Fan:high.
+
+ID Code:null(3/13/2015 22:8)Living Room: Current Temp:68 Max Temp:70 Min Temp:60 Lights:100 Fan:high.
+
+ID Code:null(3/13/2015 22:30)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:high.
+
+ID Code:null(3/13/2015 22:30)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:high.
+
+ID Code:null(3/13/2015 22:31)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:high.
+
+ID Code:0000(3/13/2015 22:31)Bedroom1: Current Temp:50 Max Temp:80 Min Temp:60 Lights:0 Fan:high.
+
+ID Code:0000(3/13/2015 22:32)Bedroom2: Current Temp:50 Max Temp:80 Min Temp:60 Lights:45 Fan:high.
+
+ID Code:null(3/13/2015 22:35)Bedroom1: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:0000(3/13/2015 22:36)Bedroom1: Current Temp:50 Max Temp:80 Min Temp:60 Lights:0 Fan:off.
+
+ID Code:0000(3/13/2015 22:36)Living Room: Current Temp:50 Max Temp:80 Min Temp:60 Lights:0 Fan:high.
+
+ID Code:0000(3/13/2015 22:36)Living Room: Current Temp:70 Max Temp:90 Min Temp:60 Lights:83 Fan:high.
+
+ID Code:0000(3/13/2015 22:39)Living Room: Current Temp:70 Max Temp:80 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:0000(3/13/2015 22:39)Living Room: Current Temp:65 Max Temp:70 Min Temp:60 Lights:50 Fan:off.
+
+ID Code:1111(3/13/2015 22:40)Living Room: Current Temp:68 Max Temp:70 Min Temp:60 Lights:100 Fan:high.
